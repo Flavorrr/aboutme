@@ -63,7 +63,6 @@ h1, h2{
     color: #00bcd4;
     margin-bottom: 1rem;
     background: linear-gradient(to right, #00bcd4, #8e2de2);
-    background-clip: text;
     -webkit-background-clip:text;
     -webkit-text-fill-color: transparent;
 }
@@ -103,10 +102,6 @@ ul{
 }
 .project:hover{
     transform: translateY(-5px);
-}
-.link-btn{
-    color: #0097a7;
-
 }
 .resume-btn{
     background-color: #00bcd4;
